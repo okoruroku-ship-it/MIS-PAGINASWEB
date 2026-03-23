@@ -41,7 +41,7 @@ Capacidades destacadas:
 - rutas SEO y sitemap
 - panel administrativo
 
-### OPTIMANIA maybe
+### OPTIMANIA (POSIBLE SUBDOMINIO)
 
 Micro sitio/demo en Flask con APIs simples para productos, testimoniales y sucursales.
 
