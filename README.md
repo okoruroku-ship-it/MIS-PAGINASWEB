@@ -2,8 +2,9 @@
 
 Coleccion publica de portafolio para mostrar distintos sitios y micrositios desarrollados, sin publicar el codigo completo de produccion.
 
+![Capturas reales de las paginas](assets/showcase-real.png)
 
-Ilustracion de showcase basada en los tipos de sitios y modulos reales trabajados.
+Collage con capturas reales de interfaces web incluidas dentro del portafolio.
 
 ## Casos incluidos
 
@@ -41,7 +42,7 @@ Capacidades destacadas:
 - rutas SEO y sitemap
 - panel administrativo
 
-### OPTIMANIA (POSIBLE SUBDOMINIO)
+### OPTIMANIA maybe
 
 Micro sitio/demo en Flask con APIs simples para productos, testimoniales y sucursales.
 
