@@ -2,7 +2,6 @@
 
 Coleccion publica de portafolio para mostrar distintos sitios y micrositios desarrollados, sin publicar el codigo completo de produccion.
 
-![Vista demostrativa de las paginas](assets/showcase-demo.svg)
 
 Ilustracion de showcase basada en los tipos de sitios y modulos reales trabajados.
 
